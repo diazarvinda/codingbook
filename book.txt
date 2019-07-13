@@ -7,3 +7,7 @@ Index
 5. Introduction to MIT AppInventor
 6. HTML, CSS, Javascript
 7. Introduction to Bootsrap
+8. Bootstrap layout
+
+
+
