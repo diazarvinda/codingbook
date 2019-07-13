@@ -5,5 +5,9 @@ Index
 3. What is Coding
 4. Introduction to MIT Scratch
 5. Introduction to MIT AppInventor
+6. HTML, CSS, Javascript
+7. Introduction to Bootsrap
+8. Bootstrap layout
 
-7. Bootstrap layout
+
+
